@@ -13,3 +13,5 @@ function snapCrackle(maxValue) {
   }
   return string;
 }
+
+console.log (snapCrackle(12))
